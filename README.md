@@ -1,5 +1,5 @@
 # DEPRESSION DETECTION USING HYBRID DEEP LEARNING MODEL
-## DEPRESSION DETECTION USING MOBILE A APP
+## DEPRESSION DETECTION USING MOBILE APP
 This project focuses on developing a mobile application that employs a hybrid deep learning model for the detection of depression. The app serves as a self-assessment tool, utilizing evidence-based questionnaires and AI-driven algorithms to evaluate users' emotional well-being and assess their risk of depression.
 ## FEATURES
 ### 1. Depression Detection:
